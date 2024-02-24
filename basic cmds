@@ -1,0 +1,15 @@
+    cd - to change directory(usage: cd dirname)
+    ls - list files (usage: ls /home, ls)
+    ls -la -> to list files in details
+    pwd - print working directory(usage: pwd)
+    cat - print file content (usage: cat filename)
+    more - It also print file content (usage: more filename)
+    cp - to copy files (usage: cp file /dir/newname)
+    mv - to move files(mv file /dir/newname
+    mkdir - create directory(usage: - mkdir hacker)
+    rm - remove file(usage: rm hacker.txt)
+    rmdir - remove directory(usage: rmdir hacker)
+    touch - create blank file (usage: touch hacker.txt)
+    whereis - show to location of file (usage: whereis cat)
+    locate - find files by name ( usage: locate ping)
+    man - very useful system commands manual ( usage: man
